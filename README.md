@@ -7,7 +7,7 @@
 
 <!-- Heading -->
 <h1 align="center">Hey 👋, I'm Gaurav Jadhav</h1>
-<h3 align="center">AI | Data Science | Full-Stack Developer | IEEE Contributor</h3>
+<h3 align="center">IEEE | Aspiring Full-Stack Developer | C, C++, Java</h3>
 
 ---
 
