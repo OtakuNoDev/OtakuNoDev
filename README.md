@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OtakuNoDev&color=0e75b6" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/OtakuNoDev?label=Follow&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/AI-DataScience-blueviolet?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 <!-- Heading -->
